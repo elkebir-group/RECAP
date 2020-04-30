@@ -1,0 +1,1450 @@
+4 # clusters
+11 # edges of consensus tree 0
+0 3
+0 7
+3 9
+3 11
+7 4
+7 10
+4 1
+4 5
+5 2
+5 8
+5 6
+11 # edges of consensus tree 1
+0 4
+4 3
+3 10
+3 7
+10 9
+9 5
+9 8
+8 1
+8 11
+1 2
+11 6
+11 # edges of consensus tree 2
+0 1
+0 5
+5 4
+5 11
+4 9
+9 3
+3 2
+3 10
+3 7
+2 8
+7 6
+11 # edges of consensus tree 3
+0 11
+0 3
+11 1
+11 5
+1 2
+2 6
+6 9
+9 8
+9 10
+3 7
+7 4
+100 # patients
+0 # cluster index for patient 0
+8 # selected input tree index for patient 0
+11 # edges in selected input tree for patient 0
+7 4
+7 10
+4 5
+4 1
+5 8
+5 6
+5 2
+3 9
+3 11
+0 7
+0 3
+0 # cluster index for patient 1
+0 # selected input tree index for patient 1
+11 # edges in selected input tree for patient 1
+7 4
+7 10
+4 5
+4 1
+5 8
+5 6
+5 2
+3 9
+3 11
+0 7
+0 3
+0 # cluster index for patient 2
+3 # selected input tree index for patient 2
+11 # edges in selected input tree for patient 2
+7 4
+7 10
+4 5
+4 1
+5 8
+5 6
+5 2
+3 9
+3 11
+0 7
+0 3
+0 # cluster index for patient 3
+20 # selected input tree index for patient 3
+11 # edges in selected input tree for patient 3
+7 4
+7 10
+4 5
+4 1
+5 8
+5 6
+5 2
+3 9
+3 11
+0 7
+0 3
+0 # cluster index for patient 4
+1 # selected input tree index for patient 4
+11 # edges in selected input tree for patient 4
+7 4
+7 10
+4 5
+4 1
+5 8
+5 6
+5 2
+3 9
+3 11
+0 7
+0 3
+0 # cluster index for patient 5
+4 # selected input tree index for patient 5
+11 # edges in selected input tree for patient 5
+7 4
+7 10
+4 5
+4 1
+5 8
+5 6
+5 2
+3 9
+3 11
+0 7
+0 3
+0 # cluster index for patient 6
+0 # selected input tree index for patient 6
+11 # edges in selected input tree for patient 6
+7 4
+7 10
+4 5
+4 1
+5 8
+5 6
+5 2
+3 9
+3 11
+0 7
+0 3
+0 # cluster index for patient 7
+0 # selected input tree index for patient 7
+11 # edges in selected input tree for patient 7
+7 4
+7 10
+4 5
+4 1
+5 8
+5 6
+5 2
+3 9
+3 11
+0 7
+0 3
+0 # cluster index for patient 8
+8 # selected input tree index for patient 8
+11 # edges in selected input tree for patient 8
+7 4
+7 10
+4 5
+4 1
+5 8
+5 6
+5 2
+3 9
+3 11
+0 7
+0 3
+0 # cluster index for patient 9
+43 # selected input tree index for patient 9
+11 # edges in selected input tree for patient 9
+7 4
+7 10
+4 5
+4 1
+5 8
+5 6
+5 2
+3 9
+3 11
+0 7
+0 3
+0 # cluster index for patient 10
+1 # selected input tree index for patient 10
+11 # edges in selected input tree for patient 10
+7 4
+7 10
+4 5
+4 1
+5 8
+5 6
+5 2
+3 9
+3 11
+0 7
+0 3
+0 # cluster index for patient 11
+0 # selected input tree index for patient 11
+11 # edges in selected input tree for patient 11
+7 4
+7 10
+4 5
+4 1
+5 8
+5 6
+5 2
+3 9
+3 11
+0 7
+0 3
+0 # cluster index for patient 12
+4 # selected input tree index for patient 12
+11 # edges in selected input tree for patient 12
+7 4
+7 10
+4 5
+4 1
+5 8
+5 6
+5 2
+3 9
+3 11
+0 7
+0 3
+0 # cluster index for patient 13
+134 # selected input tree index for patient 13
+11 # edges in selected input tree for patient 13
+7 4
+7 10
+4 5
+4 1
+5 8
+5 6
+5 2
+3 9
+3 11
+0 7
+0 3
+0 # cluster index for patient 14
+2 # selected input tree index for patient 14
+11 # edges in selected input tree for patient 14
+7 4
+7 10
+4 5
+4 1
+5 8
+5 6
+5 2
+3 9
+3 11
+0 7
+0 3
+0 # cluster index for patient 15
+3 # selected input tree index for patient 15
+11 # edges in selected input tree for patient 15
+7 4
+7 10
+4 5
+4 1
+5 8
+5 6
+5 2
+3 9
+3 11
+0 7
+0 3
+0 # cluster index for patient 16
+1 # selected input tree index for patient 16
+11 # edges in selected input tree for patient 16
+7 4
+7 10
+4 5
+4 1
+5 8
+5 6
+5 2
+3 9
+3 11
+0 7
+0 3
+0 # cluster index for patient 17
+9 # selected input tree index for patient 17
+11 # edges in selected input tree for patient 17
+7 4
+7 10
+4 5
+4 1
+5 8
+5 6
+5 2
+3 9
+3 11
+0 7
+0 3
+0 # cluster index for patient 18
+22 # selected input tree index for patient 18
+11 # edges in selected input tree for patient 18
+7 4
+7 10
+4 5
+4 1
+5 8
+5 6
+5 2
+3 9
+3 11
+0 7
+0 3
+0 # cluster index for patient 19
+2 # selected input tree index for patient 19
+11 # edges in selected input tree for patient 19
+7 4
+7 10
+4 5
+4 1
+5 8
+5 6
+5 2
+3 9
+3 11
+0 7
+0 3
+0 # cluster index for patient 20
+0 # selected input tree index for patient 20
+11 # edges in selected input tree for patient 20
+7 4
+7 10
+4 5
+4 1
+5 8
+5 6
+5 2
+3 9
+3 11
+0 7
+0 3
+0 # cluster index for patient 21
+3 # selected input tree index for patient 21
+11 # edges in selected input tree for patient 21
+7 4
+7 10
+4 5
+4 1
+5 8
+5 6
+5 2
+3 9
+3 11
+0 7
+0 3
+0 # cluster index for patient 22
+3 # selected input tree index for patient 22
+11 # edges in selected input tree for patient 22
+7 4
+7 10
+4 5
+4 1
+5 8
+5 6
+5 2
+3 9
+3 11
+0 7
+0 3
+0 # cluster index for patient 23
+2 # selected input tree index for patient 23
+11 # edges in selected input tree for patient 23
+7 4
+7 10
+4 5
+4 1
+5 8
+5 6
+5 2
+3 9
+3 11
+0 7
+0 3
+0 # cluster index for patient 24
+0 # selected input tree index for patient 24
+11 # edges in selected input tree for patient 24
+7 4
+7 10
+4 5
+4 1
+5 8
+5 6
+5 2
+3 9
+3 11
+0 7
+0 3
+0 # cluster index for patient 25
+205 # selected input tree index for patient 25
+11 # edges in selected input tree for patient 25
+7 4
+7 10
+4 5
+4 1
+5 8
+5 6
+5 2
+3 9
+3 11
+0 7
+0 3
+0 # cluster index for patient 26
+57 # selected input tree index for patient 26
+11 # edges in selected input tree for patient 26
+7 4
+7 10
+4 5
+4 1
+5 8
+5 6
+5 2
+3 9
+3 11
+0 7
+0 3
+0 # cluster index for patient 27
+25 # selected input tree index for patient 27
+11 # edges in selected input tree for patient 27
+7 4
+7 10
+4 5
+4 1
+5 8
+5 6
+5 2
+3 9
+3 11
+0 7
+0 3
+0 # cluster index for patient 28
+4 # selected input tree index for patient 28
+11 # edges in selected input tree for patient 28
+7 4
+7 10
+4 5
+4 1
+5 8
+5 6
+5 2
+3 9
+3 11
+0 7
+0 3
+0 # cluster index for patient 29
+14 # selected input tree index for patient 29
+11 # edges in selected input tree for patient 29
+7 4
+7 10
+4 5
+4 1
+5 8
+5 6
+5 2
+3 9
+3 11
+0 7
+0 3
+0 # cluster index for patient 30
+27 # selected input tree index for patient 30
+11 # edges in selected input tree for patient 30
+7 4
+7 10
+4 5
+4 1
+5 8
+5 6
+5 2
+3 9
+3 11
+0 7
+0 3
+0 # cluster index for patient 31
+4 # selected input tree index for patient 31
+11 # edges in selected input tree for patient 31
+7 4
+7 10
+4 5
+4 1
+5 8
+5 6
+5 2
+3 9
+3 11
+0 7
+0 3
+0 # cluster index for patient 32
+6 # selected input tree index for patient 32
+11 # edges in selected input tree for patient 32
+7 4
+7 10
+4 5
+4 1
+5 8
+5 6
+5 2
+3 9
+3 11
+0 7
+0 3
+0 # cluster index for patient 33
+2 # selected input tree index for patient 33
+11 # edges in selected input tree for patient 33
+7 4
+7 10
+4 5
+4 1
+5 8
+5 6
+5 2
+3 9
+3 11
+0 7
+0 3
+1 # cluster index for patient 34
+9 # selected input tree index for patient 34
+11 # edges in selected input tree for patient 34
+8 1
+8 11
+9 8
+9 5
+4 3
+3 7
+3 10
+0 4
+1 2
+10 9
+11 6
+1 # cluster index for patient 35
+14 # selected input tree index for patient 35
+11 # edges in selected input tree for patient 35
+8 1
+8 11
+9 8
+9 5
+4 3
+3 7
+3 10
+0 4
+1 2
+10 9
+11 6
+1 # cluster index for patient 36
+34 # selected input tree index for patient 36
+11 # edges in selected input tree for patient 36
+8 1
+8 11
+9 8
+9 5
+4 3
+3 7
+3 10
+0 4
+1 2
+10 9
+11 6
+1 # cluster index for patient 37
+19 # selected input tree index for patient 37
+11 # edges in selected input tree for patient 37
+8 1
+8 11
+9 8
+9 5
+4 3
+3 7
+3 10
+0 4
+1 2
+10 9
+11 6
+1 # cluster index for patient 38
+28 # selected input tree index for patient 38
+11 # edges in selected input tree for patient 38
+8 1
+8 11
+9 8
+9 5
+4 3
+3 7
+3 10
+0 4
+1 2
+10 9
+11 6
+1 # cluster index for patient 39
+22 # selected input tree index for patient 39
+11 # edges in selected input tree for patient 39
+8 1
+8 11
+9 8
+9 5
+4 3
+3 7
+3 10
+0 4
+1 2
+10 9
+11 6
+1 # cluster index for patient 40
+46 # selected input tree index for patient 40
+11 # edges in selected input tree for patient 40
+8 1
+8 11
+9 8
+9 5
+4 3
+3 7
+3 10
+0 4
+1 2
+10 9
+11 6
+1 # cluster index for patient 41
+79 # selected input tree index for patient 41
+11 # edges in selected input tree for patient 41
+8 1
+8 11
+9 8
+9 5
+4 3
+3 7
+3 10
+0 4
+1 2
+10 9
+11 6
+1 # cluster index for patient 42
+3 # selected input tree index for patient 42
+11 # edges in selected input tree for patient 42
+8 1
+8 11
+9 8
+9 5
+4 3
+3 7
+3 10
+0 4
+1 2
+10 9
+11 6
+1 # cluster index for patient 43
+10 # selected input tree index for patient 43
+11 # edges in selected input tree for patient 43
+8 1
+8 11
+9 8
+9 5
+4 3
+3 7
+3 10
+0 4
+1 2
+10 9
+11 6
+1 # cluster index for patient 44
+10 # selected input tree index for patient 44
+11 # edges in selected input tree for patient 44
+8 1
+8 11
+9 8
+9 5
+4 3
+3 7
+3 10
+0 4
+1 2
+10 9
+11 6
+1 # cluster index for patient 45
+2 # selected input tree index for patient 45
+11 # edges in selected input tree for patient 45
+8 1
+8 11
+9 8
+9 5
+4 3
+3 7
+3 10
+0 4
+1 2
+10 9
+11 6
+1 # cluster index for patient 46
+10 # selected input tree index for patient 46
+11 # edges in selected input tree for patient 46
+8 1
+8 11
+9 8
+9 5
+4 3
+3 7
+3 10
+0 4
+1 2
+10 9
+11 6
+1 # cluster index for patient 47
+0 # selected input tree index for patient 47
+11 # edges in selected input tree for patient 47
+8 1
+8 11
+9 8
+9 5
+4 3
+3 7
+3 10
+0 4
+1 2
+10 9
+11 6
+1 # cluster index for patient 48
+65 # selected input tree index for patient 48
+11 # edges in selected input tree for patient 48
+8 1
+8 11
+9 8
+9 5
+4 3
+3 7
+3 10
+0 4
+1 2
+10 9
+11 6
+1 # cluster index for patient 49
+14 # selected input tree index for patient 49
+11 # edges in selected input tree for patient 49
+8 1
+8 11
+9 8
+9 5
+4 3
+3 7
+3 10
+0 4
+1 2
+10 9
+11 6
+1 # cluster index for patient 50
+47 # selected input tree index for patient 50
+11 # edges in selected input tree for patient 50
+8 1
+8 11
+9 8
+9 5
+4 3
+3 7
+3 10
+0 4
+1 2
+10 9
+11 6
+1 # cluster index for patient 51
+103 # selected input tree index for patient 51
+11 # edges in selected input tree for patient 51
+8 1
+8 11
+9 8
+9 5
+4 3
+3 7
+3 10
+0 4
+1 2
+10 9
+11 6
+1 # cluster index for patient 52
+46 # selected input tree index for patient 52
+11 # edges in selected input tree for patient 52
+8 1
+8 11
+9 8
+9 5
+4 3
+3 7
+3 10
+0 4
+1 2
+10 9
+11 6
+2 # cluster index for patient 53
+0 # selected input tree index for patient 53
+11 # edges in selected input tree for patient 53
+9 3
+7 6
+4 9
+5 4
+5 11
+2 8
+3 7
+3 2
+3 10
+0 5
+0 1
+2 # cluster index for patient 54
+3 # selected input tree index for patient 54
+11 # edges in selected input tree for patient 54
+9 3
+7 6
+4 9
+5 4
+5 11
+2 8
+3 7
+3 2
+3 10
+0 5
+0 1
+2 # cluster index for patient 55
+48 # selected input tree index for patient 55
+11 # edges in selected input tree for patient 55
+9 3
+7 6
+4 9
+5 4
+5 11
+2 8
+3 7
+3 2
+3 10
+0 5
+0 1
+2 # cluster index for patient 56
+25 # selected input tree index for patient 56
+11 # edges in selected input tree for patient 56
+9 3
+7 6
+4 9
+5 4
+5 11
+2 8
+3 7
+3 2
+3 10
+0 5
+0 1
+2 # cluster index for patient 57
+26 # selected input tree index for patient 57
+11 # edges in selected input tree for patient 57
+9 3
+7 6
+4 9
+5 4
+5 11
+2 8
+3 7
+3 2
+3 10
+0 5
+0 1
+2 # cluster index for patient 58
+7 # selected input tree index for patient 58
+11 # edges in selected input tree for patient 58
+9 3
+7 6
+4 9
+5 4
+5 11
+2 8
+3 7
+3 2
+3 10
+0 5
+0 1
+2 # cluster index for patient 59
+0 # selected input tree index for patient 59
+11 # edges in selected input tree for patient 59
+9 3
+7 6
+4 9
+5 4
+5 11
+2 8
+3 7
+3 2
+3 10
+0 5
+0 1
+2 # cluster index for patient 60
+470 # selected input tree index for patient 60
+11 # edges in selected input tree for patient 60
+9 3
+7 6
+4 9
+5 4
+5 11
+2 8
+3 7
+3 2
+3 10
+0 5
+0 1
+2 # cluster index for patient 61
+94 # selected input tree index for patient 61
+11 # edges in selected input tree for patient 61
+9 3
+7 6
+4 9
+5 4
+5 11
+2 8
+3 7
+3 2
+3 10
+0 5
+0 1
+2 # cluster index for patient 62
+13 # selected input tree index for patient 62
+11 # edges in selected input tree for patient 62
+9 3
+7 6
+4 9
+5 4
+5 11
+2 8
+3 7
+3 2
+3 10
+0 5
+0 1
+2 # cluster index for patient 63
+7 # selected input tree index for patient 63
+11 # edges in selected input tree for patient 63
+9 3
+7 6
+4 9
+5 4
+5 11
+2 8
+3 7
+3 2
+3 10
+0 5
+0 1
+2 # cluster index for patient 64
+14 # selected input tree index for patient 64
+11 # edges in selected input tree for patient 64
+9 3
+7 6
+4 9
+5 4
+5 11
+2 8
+3 7
+3 2
+3 10
+0 5
+0 1
+2 # cluster index for patient 65
+0 # selected input tree index for patient 65
+11 # edges in selected input tree for patient 65
+9 3
+7 6
+4 9
+5 4
+5 11
+2 8
+3 7
+3 2
+3 10
+0 5
+0 1
+2 # cluster index for patient 66
+66 # selected input tree index for patient 66
+11 # edges in selected input tree for patient 66
+9 3
+7 6
+4 9
+5 4
+5 11
+2 8
+3 7
+3 2
+3 10
+0 5
+0 1
+2 # cluster index for patient 67
+3 # selected input tree index for patient 67
+11 # edges in selected input tree for patient 67
+9 3
+7 6
+4 9
+5 4
+5 11
+2 8
+3 7
+3 2
+3 10
+0 5
+0 1
+2 # cluster index for patient 68
+19 # selected input tree index for patient 68
+11 # edges in selected input tree for patient 68
+9 3
+7 6
+4 9
+5 4
+5 11
+2 8
+3 7
+3 2
+3 10
+0 5
+0 1
+2 # cluster index for patient 69
+7 # selected input tree index for patient 69
+11 # edges in selected input tree for patient 69
+9 3
+7 6
+4 9
+5 4
+5 11
+2 8
+3 7
+3 2
+3 10
+0 5
+0 1
+2 # cluster index for patient 70
+5 # selected input tree index for patient 70
+11 # edges in selected input tree for patient 70
+9 3
+7 6
+4 9
+5 4
+5 11
+2 8
+3 7
+3 2
+3 10
+0 5
+0 1
+2 # cluster index for patient 71
+156 # selected input tree index for patient 71
+11 # edges in selected input tree for patient 71
+9 3
+7 6
+4 9
+5 4
+5 11
+2 8
+3 7
+3 2
+3 10
+0 5
+0 1
+2 # cluster index for patient 72
+3 # selected input tree index for patient 72
+11 # edges in selected input tree for patient 72
+9 3
+7 6
+4 9
+5 4
+5 11
+2 8
+3 7
+3 2
+3 10
+0 5
+0 1
+2 # cluster index for patient 73
+10 # selected input tree index for patient 73
+11 # edges in selected input tree for patient 73
+9 3
+7 6
+4 9
+5 4
+5 11
+2 8
+3 7
+3 2
+3 10
+0 5
+0 1
+3 # cluster index for patient 74
+5 # selected input tree index for patient 74
+11 # edges in selected input tree for patient 74
+9 8
+9 10
+6 9
+7 4
+2 6
+3 7
+0 3
+0 11
+1 2
+11 5
+11 1
+3 # cluster index for patient 75
+23 # selected input tree index for patient 75
+11 # edges in selected input tree for patient 75
+9 8
+9 10
+6 9
+7 4
+2 6
+3 7
+0 3
+0 11
+1 2
+11 5
+11 1
+3 # cluster index for patient 76
+7 # selected input tree index for patient 76
+11 # edges in selected input tree for patient 76
+9 8
+9 10
+6 9
+7 4
+2 6
+3 7
+0 3
+0 11
+1 2
+11 5
+11 1
+3 # cluster index for patient 77
+0 # selected input tree index for patient 77
+11 # edges in selected input tree for patient 77
+9 8
+9 10
+6 9
+7 4
+2 6
+3 7
+0 3
+0 11
+1 2
+11 5
+11 1
+3 # cluster index for patient 78
+14 # selected input tree index for patient 78
+11 # edges in selected input tree for patient 78
+9 8
+9 10
+6 9
+7 4
+2 6
+3 7
+0 3
+0 11
+1 2
+11 5
+11 1
+3 # cluster index for patient 79
+16 # selected input tree index for patient 79
+11 # edges in selected input tree for patient 79
+9 8
+9 10
+6 9
+7 4
+2 6
+3 7
+0 3
+0 11
+1 2
+11 5
+11 1
+3 # cluster index for patient 80
+50 # selected input tree index for patient 80
+11 # edges in selected input tree for patient 80
+9 8
+9 10
+6 9
+7 4
+2 6
+3 7
+0 3
+0 11
+1 2
+11 5
+11 1
+3 # cluster index for patient 81
+10 # selected input tree index for patient 81
+11 # edges in selected input tree for patient 81
+9 8
+9 10
+6 9
+7 4
+2 6
+3 7
+0 3
+0 11
+1 2
+11 5
+11 1
+3 # cluster index for patient 82
+12 # selected input tree index for patient 82
+11 # edges in selected input tree for patient 82
+9 8
+9 10
+6 9
+7 4
+2 6
+3 7
+0 3
+0 11
+1 2
+11 5
+11 1
+3 # cluster index for patient 83
+1 # selected input tree index for patient 83
+11 # edges in selected input tree for patient 83
+9 8
+9 10
+6 9
+7 4
+2 6
+3 7
+0 3
+0 11
+1 2
+11 5
+11 1
+3 # cluster index for patient 84
+15 # selected input tree index for patient 84
+11 # edges in selected input tree for patient 84
+9 8
+9 10
+6 9
+7 4
+2 6
+3 7
+0 3
+0 11
+1 2
+11 5
+11 1
+3 # cluster index for patient 85
+7 # selected input tree index for patient 85
+11 # edges in selected input tree for patient 85
+9 8
+9 10
+6 9
+7 4
+2 6
+3 7
+0 3
+0 11
+1 2
+11 5
+11 1
+3 # cluster index for patient 86
+0 # selected input tree index for patient 86
+11 # edges in selected input tree for patient 86
+9 8
+9 10
+6 9
+7 4
+2 6
+3 7
+0 3
+0 11
+1 2
+11 5
+11 1
+3 # cluster index for patient 87
+3 # selected input tree index for patient 87
+11 # edges in selected input tree for patient 87
+9 8
+9 10
+6 9
+7 4
+2 6
+3 7
+0 3
+0 11
+1 2
+11 5
+11 1
+3 # cluster index for patient 88
+2 # selected input tree index for patient 88
+11 # edges in selected input tree for patient 88
+9 8
+9 10
+6 9
+7 4
+2 6
+3 7
+0 3
+0 11
+1 2
+11 5
+11 1
+3 # cluster index for patient 89
+24 # selected input tree index for patient 89
+11 # edges in selected input tree for patient 89
+9 8
+9 10
+6 9
+7 4
+2 6
+3 7
+0 3
+0 11
+1 2
+11 5
+11 1
+3 # cluster index for patient 90
+20 # selected input tree index for patient 90
+11 # edges in selected input tree for patient 90
+9 8
+9 10
+6 9
+7 4
+2 6
+3 7
+0 3
+0 11
+1 2
+11 5
+11 1
+3 # cluster index for patient 91
+39 # selected input tree index for patient 91
+11 # edges in selected input tree for patient 91
+9 8
+9 10
+6 9
+7 4
+2 6
+3 7
+0 3
+0 11
+1 2
+11 5
+11 1
+3 # cluster index for patient 92
+4 # selected input tree index for patient 92
+11 # edges in selected input tree for patient 92
+9 8
+9 10
+6 9
+7 4
+2 6
+3 7
+0 3
+0 11
+1 2
+11 5
+11 1
+3 # cluster index for patient 93
+6 # selected input tree index for patient 93
+11 # edges in selected input tree for patient 93
+9 8
+9 10
+6 9
+7 4
+2 6
+3 7
+0 3
+0 11
+1 2
+11 5
+11 1
+3 # cluster index for patient 94
+26 # selected input tree index for patient 94
+11 # edges in selected input tree for patient 94
+9 8
+9 10
+6 9
+7 4
+2 6
+3 7
+0 3
+0 11
+1 2
+11 5
+11 1
+3 # cluster index for patient 95
+26 # selected input tree index for patient 95
+11 # edges in selected input tree for patient 95
+9 8
+9 10
+6 9
+7 4
+2 6
+3 7
+0 3
+0 11
+1 2
+11 5
+11 1
+3 # cluster index for patient 96
+0 # selected input tree index for patient 96
+11 # edges in selected input tree for patient 96
+9 8
+9 10
+6 9
+7 4
+2 6
+3 7
+0 3
+0 11
+1 2
+11 5
+11 1
+3 # cluster index for patient 97
+4 # selected input tree index for patient 97
+11 # edges in selected input tree for patient 97
+9 8
+9 10
+6 9
+7 4
+2 6
+3 7
+0 3
+0 11
+1 2
+11 5
+11 1
+3 # cluster index for patient 98
+32 # selected input tree index for patient 98
+11 # edges in selected input tree for patient 98
+9 8
+9 10
+6 9
+7 4
+2 6
+3 7
+0 3
+0 11
+1 2
+11 5
+11 1
+3 # cluster index for patient 99
+0 # selected input tree index for patient 99
+11 # edges in selected input tree for patient 99
+9 8
+9 10
+6 9
+7 4
+2 6
+3 7
+0 3
+0 11
+1 2
+11 5
+11 1
