@@ -1,0 +1,15 @@
+../../build/recap -c 100 -R GL -k 1 ../../data/breast_Razavi/breast_Razavi.txt -p k1_r1000_c100 -r 1000
+../../build/recap -c 100 -R GL -k 2 ../../data/breast_Razavi/breast_Razavi.txt -p k2_r1000_c100 -r 1000
+../../build/recap -c 100 -R GL -k 3 ../../data/breast_Razavi/breast_Razavi.txt -p k3_r1000_c100 -r 1000
+../../build/recap -c 100 -R GL -k 4 ../../data/breast_Razavi/breast_Razavi.txt -p k4_r1000_c100 -r 1000
+../../build/recap -c 100 -R GL -k 5 ../../data/breast_Razavi/breast_Razavi.txt -p k5_r1000_c100 -r 1000
+../../build/recap -c 100 -R GL -k 6 ../../data/breast_Razavi/breast_Razavi.txt -p k6_r1000_c100 -r 1000
+../../build/recap -c 100 -R GL -k 7 ../../data/breast_Razavi/breast_Razavi.txt -p k7_r1000_c100 -r 1000
+../../build/recap -c 100 -R GL -k 8 ../../data/breast_Razavi/breast_Razavi.txt -p k8_r1000_c100 -r 1000
+../../build/recap -c 100 -R GL -k 9 ../../data/breast_Razavi/breast_Razavi.txt -p k9_r1000_c100 -r 1000
+../../build/recap -c 100 -R GL -k 10 ../../data/breast_Razavi/breast_Razavi.txt -p k10_r1000_c100 -r 1000
+../../build/recap -c 100 -R GL -k 11 ../../data/breast_Razavi/breast_Razavi.txt -p k11_r1000_c100 -r 1000
+../../build/recap -c 100 -R GL -k 12 ../../data/breast_Razavi/breast_Razavi.txt -p k12_r1000_c100 -r 1000
+../../build/recap -c 100 -R GL -k 13 ../../data/breast_Razavi/breast_Razavi.txt -p k13_r1000_c100 -r 1000
+../../build/recap -c 100 -R GL -k 14 ../../data/breast_Razavi/breast_Razavi.txt -p k14_r1000_c100 -r 1000
+../../build/recap -c 100 -R GL -k 15 ../../data/breast_Razavi/breast_Razavi.txt -p k15_r1000_c100 -r 1000

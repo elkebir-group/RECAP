@@ -1,0 +1,1330 @@
+14 # clusters
+9 # edges in consensus tree 0, distance 0.777778
+GL PIK3CA 0.65
+GL dummy 0.65
+PIK3CA SOX2 0.65
+SOX2 TP53 0.55
+dummy CDKN2A 0.55
+dummy EGFR 0.6
+dummy KEAP1 0.65
+dummy KRAS 0.65
+dummy TERT 0.55
+9 # edges in consensus tree 1, distance 0.111111
+GL KRAS 0.1
+GL dummy 0.1
+KRAS TP53 0.1
+TP53 KEAP1 0.1
+dummy CDKN2A 0.1
+dummy EGFR 0.1
+dummy PIK3CA 0.05
+dummy SOX2 0.1
+dummy TERT 0.1
+9 # edges in consensus tree 2, distance 0.444444
+GL KRAS 0.8
+GL dummy 0.8
+dummy CDKN2A 0.75
+dummy EGFR 0.75
+dummy KEAP1 0.8
+dummy PIK3CA 0.8
+dummy SOX2 0.8
+dummy TERT 0.75
+dummy TP53 0.75
+9 # edges in consensus tree 3, distance 0.333333
+EGFR TP53 0.6
+GL EGFR 0.6
+GL dummy 0.6
+dummy CDKN2A 0.55
+dummy KEAP1 0.6
+dummy KRAS 0.5
+dummy PIK3CA 0.6
+dummy SOX2 0.6
+dummy TERT 0.6
+9 # edges in consensus tree 4, distance 0.222222
+GL TERT 0.15
+GL dummy 0.15
+dummy CDKN2A 0.15
+dummy EGFR 0.15
+dummy KEAP1 0.15
+dummy KRAS 0.1
+dummy PIK3CA 0.15
+dummy SOX2 0.15
+dummy TP53 0.1
+9 # edges in consensus tree 5, distance 0.333333
+GL CDKN2A 0.2
+GL dummy 0.2
+dummy EGFR 0.15
+dummy KEAP1 0.15
+dummy KRAS 0.2
+dummy PIK3CA 0.15
+dummy SOX2 0.2
+dummy TERT 0.2
+dummy TP53 0.2
+9 # edges in consensus tree 6, distance 0.222222
+GL TP53 0.3
+GL dummy 0.3
+TP53 CDKN2A 0.3
+dummy EGFR 0.3
+dummy KEAP1 0.3
+dummy KRAS 0.3
+dummy PIK3CA 0.3
+dummy SOX2 0.3
+dummy TERT 0.2
+9 # edges in consensus tree 7, distance 0.222222
+GL TP53 0.2
+GL dummy 0.2
+TP53 KEAP1 0.2
+dummy CDKN2A 0.2
+dummy EGFR 0.2
+dummy KRAS 0.15
+dummy PIK3CA 0.2
+dummy SOX2 0.2
+dummy TERT 0.15
+9 # edges in consensus tree 8, distance 0.666667
+GL TP53 0.75
+GL dummy 0.75
+dummy CDKN2A 0.75
+dummy EGFR 0.75
+dummy KEAP1 0.75
+dummy KRAS 0.7
+dummy PIK3CA 0.6
+dummy SOX2 0.7
+dummy TERT 0.7
+9 # edges in consensus tree 9, distance 0.111111
+GL EGFR 0.25
+GL dummy 0.25
+dummy CDKN2A 0.25
+dummy KEAP1 0.25
+dummy KRAS 0.25
+dummy PIK3CA 0.2
+dummy SOX2 0.25
+dummy TERT 0.25
+dummy TP53 0.25
+9 # edges in consensus tree 10, distance 0.222222
+GL PIK3CA 0.1
+GL dummy 0.1
+PIK3CA KEAP1 0.1
+dummy CDKN2A 0.1
+dummy EGFR 0.1
+dummy KRAS 0.05
+dummy SOX2 0.1
+dummy TERT 0.05
+dummy TP53 0.1
+9 # edges in consensus tree 11, distance 0
+EGFR TERT 0.1
+GL EGFR 0.1
+GL dummy 0.1
+dummy CDKN2A 0.1
+dummy KEAP1 0.1
+dummy KRAS 0.1
+dummy PIK3CA 0.1
+dummy SOX2 0.1
+dummy TP53 0.1
+9 # edges in consensus tree 12, distance 0.333333
+GL dummy 0.55
+dummy CDKN2A 0.55
+dummy EGFR 0.55
+dummy KEAP1 0.4
+dummy KRAS 0.55
+dummy PIK3CA 0.55
+dummy SOX2 0.55
+dummy TERT 0.55
+dummy TP53 0.55
+9 # edges in consensus tree 13, distance 0
+GL KRAS 0.2
+GL dummy 0.2
+KRAS TP53 0.2
+dummy CDKN2A 0.2
+dummy EGFR 0.2
+dummy KEAP1 0.2
+dummy PIK3CA 0.2
+dummy SOX2 0.2
+dummy TERT 0.2
+99 # patients
+3 # cluster index for patient 0, distance 0
+0 # selected input tree index for patient 0
+9 # edges in selected input tree for patient 0
+dummy TERT
+dummy SOX2
+dummy PIK3CA
+dummy KRAS
+dummy KEAP1
+dummy CDKN2A
+EGFR TP53
+GL dummy
+GL EGFR
+4 # cluster index for patient 1, distance 0.111111
+0 # selected input tree index for patient 1
+9 # edges in selected input tree for patient 1
+dummy TP53
+dummy SOX2
+dummy PIK3CA
+dummy KEAP1
+dummy EGFR
+dummy CDKN2A
+TERT KRAS
+GL dummy
+GL TERT
+5 # cluster index for patient 2, distance 0.222222
+0 # selected input tree index for patient 2
+9 # edges in selected input tree for patient 2
+dummy TP53
+dummy TERT
+dummy SOX2
+dummy KRAS
+dummy KEAP1
+CDKN2A EGFR
+EGFR PIK3CA
+GL dummy
+GL CDKN2A
+3 # cluster index for patient 3, distance 0
+0 # selected input tree index for patient 3
+9 # edges in selected input tree for patient 3
+dummy TERT
+dummy SOX2
+dummy PIK3CA
+dummy KRAS
+dummy KEAP1
+dummy CDKN2A
+EGFR TP53
+GL dummy
+GL EGFR
+4 # cluster index for patient 4, distance 0.111111
+0 # selected input tree index for patient 4
+9 # edges in selected input tree for patient 4
+dummy SOX2
+dummy PIK3CA
+dummy KRAS
+dummy KEAP1
+dummy EGFR
+dummy CDKN2A
+TERT TP53
+GL dummy
+GL TERT
+7 # cluster index for patient 5, distance 0.111111
+0 # selected input tree index for patient 5
+9 # edges in selected input tree for patient 5
+dummy SOX2
+dummy PIK3CA
+dummy KRAS
+dummy EGFR
+dummy CDKN2A
+TP53 KEAP1
+KEAP1 TERT
+GL dummy
+GL TP53
+9 # cluster index for patient 6, distance 0.111111
+0 # selected input tree index for patient 6
+9 # edges in selected input tree for patient 6
+dummy TP53
+dummy TERT
+dummy SOX2
+dummy KRAS
+dummy KEAP1
+dummy CDKN2A
+EGFR PIK3CA
+GL dummy
+GL EGFR
+12 # cluster index for patient 7, distance 0.111111
+0 # selected input tree index for patient 7
+9 # edges in selected input tree for patient 7
+dummy TP53
+dummy TERT
+dummy SOX2
+dummy PIK3CA
+dummy KRAS
+dummy EGFR
+dummy CDKN2A
+GL dummy
+GL KEAP1
+8 # cluster index for patient 8, distance 0.111111
+0 # selected input tree index for patient 8
+9 # edges in selected input tree for patient 8
+dummy SOX2
+dummy PIK3CA
+dummy KRAS
+dummy KEAP1
+dummy EGFR
+dummy CDKN2A
+TP53 TERT
+GL dummy
+GL TP53
+11 # cluster index for patient 9, distance 0
+0 # selected input tree index for patient 9
+9 # edges in selected input tree for patient 9
+dummy TP53
+dummy SOX2
+dummy PIK3CA
+dummy KRAS
+dummy KEAP1
+dummy CDKN2A
+EGFR TERT
+GL dummy
+GL EGFR
+2 # cluster index for patient 10, distance 0
+0 # selected input tree index for patient 10
+9 # edges in selected input tree for patient 10
+dummy TP53
+dummy TERT
+dummy SOX2
+dummy PIK3CA
+dummy KEAP1
+dummy EGFR
+dummy CDKN2A
+GL dummy
+GL KRAS
+9 # cluster index for patient 11, distance 0
+0 # selected input tree index for patient 11
+9 # edges in selected input tree for patient 11
+dummy TP53
+dummy TERT
+dummy SOX2
+dummy PIK3CA
+dummy KRAS
+dummy KEAP1
+dummy CDKN2A
+GL dummy
+GL EGFR
+2 # cluster index for patient 12, distance 0.111111
+0 # selected input tree index for patient 12
+9 # edges in selected input tree for patient 12
+dummy TP53
+dummy TERT
+dummy SOX2
+dummy PIK3CA
+dummy KEAP1
+dummy CDKN2A
+GL dummy
+GL KRAS
+GL EGFR
+13 # cluster index for patient 13, distance 0
+0 # selected input tree index for patient 13
+9 # edges in selected input tree for patient 13
+dummy TERT
+dummy SOX2
+dummy PIK3CA
+dummy KEAP1
+dummy EGFR
+dummy CDKN2A
+KRAS TP53
+GL dummy
+GL KRAS
+3 # cluster index for patient 14, distance 0
+0 # selected input tree index for patient 14
+9 # edges in selected input tree for patient 14
+dummy TERT
+dummy SOX2
+dummy PIK3CA
+dummy KRAS
+dummy KEAP1
+dummy CDKN2A
+EGFR TP53
+GL dummy
+GL EGFR
+6 # cluster index for patient 15, distance 0.111111
+0 # selected input tree index for patient 15
+9 # edges in selected input tree for patient 15
+dummy SOX2
+dummy PIK3CA
+dummy KRAS
+dummy KEAP1
+dummy EGFR
+TP53 CDKN2A
+CDKN2A TERT
+GL dummy
+GL TP53
+7 # cluster index for patient 16, distance 0.111111
+0 # selected input tree index for patient 16
+9 # edges in selected input tree for patient 16
+dummy TERT
+dummy SOX2
+dummy PIK3CA
+dummy EGFR
+dummy CDKN2A
+TP53 KEAP1
+KEAP1 KRAS
+GL dummy
+GL TP53
+2 # cluster index for patient 17, distance 0
+0 # selected input tree index for patient 17
+9 # edges in selected input tree for patient 17
+dummy TP53
+dummy TERT
+dummy SOX2
+dummy PIK3CA
+dummy KEAP1
+dummy EGFR
+dummy CDKN2A
+GL dummy
+GL KRAS
+9 # cluster index for patient 18, distance 0
+0 # selected input tree index for patient 18
+9 # edges in selected input tree for patient 18
+dummy TP53
+dummy TERT
+dummy SOX2
+dummy PIK3CA
+dummy KRAS
+dummy KEAP1
+dummy CDKN2A
+GL dummy
+GL EGFR
+1 # cluster index for patient 19, distance 0.111111
+0 # selected input tree index for patient 19
+9 # edges in selected input tree for patient 19
+dummy TERT
+dummy SOX2
+dummy EGFR
+dummy CDKN2A
+KRAS TP53
+TP53 KEAP1
+KEAP1 PIK3CA
+GL dummy
+GL KRAS
+3 # cluster index for patient 20, distance 0.111111
+0 # selected input tree index for patient 20
+9 # edges in selected input tree for patient 20
+dummy TERT
+dummy SOX2
+dummy PIK3CA
+dummy KRAS
+dummy KEAP1
+EGFR TP53
+TP53 CDKN2A
+GL dummy
+GL EGFR
+3 # cluster index for patient 21, distance 0
+0 # selected input tree index for patient 21
+9 # edges in selected input tree for patient 21
+dummy TERT
+dummy SOX2
+dummy PIK3CA
+dummy KRAS
+dummy KEAP1
+dummy CDKN2A
+EGFR TP53
+GL dummy
+GL EGFR
+2 # cluster index for patient 22, distance 0.222222
+0 # selected input tree index for patient 22
+9 # edges in selected input tree for patient 22
+dummy TERT
+dummy SOX2
+dummy PIK3CA
+dummy KEAP1
+dummy EGFR
+KRAS CDKN2A
+CDKN2A TP53
+GL dummy
+GL KRAS
+3 # cluster index for patient 23, distance 0
+0 # selected input tree index for patient 23
+9 # edges in selected input tree for patient 23
+dummy TERT
+dummy SOX2
+dummy PIK3CA
+dummy KRAS
+dummy KEAP1
+dummy CDKN2A
+EGFR TP53
+GL dummy
+GL EGFR
+13 # cluster index for patient 24, distance 0
+0 # selected input tree index for patient 24
+9 # edges in selected input tree for patient 24
+dummy TERT
+dummy SOX2
+dummy PIK3CA
+dummy KEAP1
+dummy EGFR
+dummy CDKN2A
+KRAS TP53
+GL dummy
+GL KRAS
+3 # cluster index for patient 25, distance 0
+0 # selected input tree index for patient 25
+9 # edges in selected input tree for patient 25
+dummy TERT
+dummy SOX2
+dummy PIK3CA
+dummy KRAS
+dummy KEAP1
+dummy CDKN2A
+EGFR TP53
+GL dummy
+GL EGFR
+13 # cluster index for patient 26, distance 0
+0 # selected input tree index for patient 26
+9 # edges in selected input tree for patient 26
+dummy TERT
+dummy SOX2
+dummy PIK3CA
+dummy KEAP1
+dummy EGFR
+dummy CDKN2A
+KRAS TP53
+GL dummy
+GL KRAS
+9 # cluster index for patient 27, distance 0
+0 # selected input tree index for patient 27
+9 # edges in selected input tree for patient 27
+dummy TP53
+dummy TERT
+dummy SOX2
+dummy PIK3CA
+dummy KRAS
+dummy KEAP1
+dummy CDKN2A
+GL dummy
+GL EGFR
+8 # cluster index for patient 28, distance 0
+0 # selected input tree index for patient 28
+9 # edges in selected input tree for patient 28
+dummy TERT
+dummy SOX2
+dummy PIK3CA
+dummy KRAS
+dummy KEAP1
+dummy EGFR
+dummy CDKN2A
+GL dummy
+GL TP53
+13 # cluster index for patient 29, distance 0
+0 # selected input tree index for patient 29
+9 # edges in selected input tree for patient 29
+dummy TERT
+dummy SOX2
+dummy PIK3CA
+dummy KEAP1
+dummy EGFR
+dummy CDKN2A
+KRAS TP53
+GL dummy
+GL KRAS
+5 # cluster index for patient 30, distance 0.111111
+0 # selected input tree index for patient 30
+9 # edges in selected input tree for patient 30
+dummy TP53
+dummy TERT
+dummy SOX2
+dummy PIK3CA
+dummy KRAS
+dummy EGFR
+CDKN2A KEAP1
+GL dummy
+GL CDKN2A
+12 # cluster index for patient 31, distance 0
+0 # selected input tree index for patient 31
+9 # edges in selected input tree for patient 31
+dummy TP53
+dummy TERT
+dummy SOX2
+dummy PIK3CA
+dummy KRAS
+dummy KEAP1
+dummy EGFR
+dummy CDKN2A
+GL dummy
+12 # cluster index for patient 32, distance 0.111111
+0 # selected input tree index for patient 32
+9 # edges in selected input tree for patient 32
+dummy TP53
+dummy TERT
+dummy SOX2
+dummy PIK3CA
+dummy KRAS
+dummy EGFR
+dummy CDKN2A
+GL dummy
+GL KEAP1
+2 # cluster index for patient 33, distance 0
+0 # selected input tree index for patient 33
+9 # edges in selected input tree for patient 33
+dummy TP53
+dummy TERT
+dummy SOX2
+dummy PIK3CA
+dummy KEAP1
+dummy EGFR
+dummy CDKN2A
+GL dummy
+GL KRAS
+8 # cluster index for patient 34, distance 0
+0 # selected input tree index for patient 34
+9 # edges in selected input tree for patient 34
+dummy TERT
+dummy SOX2
+dummy PIK3CA
+dummy KRAS
+dummy KEAP1
+dummy EGFR
+dummy CDKN2A
+GL dummy
+GL TP53
+10 # cluster index for patient 35, distance 0.222222
+0 # selected input tree index for patient 35
+9 # edges in selected input tree for patient 35
+dummy TP53
+dummy SOX2
+dummy EGFR
+dummy CDKN2A
+PIK3CA KEAP1
+KEAP1 TERT
+TERT KRAS
+GL dummy
+GL PIK3CA
+2 # cluster index for patient 36, distance 0
+0 # selected input tree index for patient 36
+9 # edges in selected input tree for patient 36
+dummy TP53
+dummy TERT
+dummy SOX2
+dummy PIK3CA
+dummy KEAP1
+dummy EGFR
+dummy CDKN2A
+GL dummy
+GL KRAS
+2 # cluster index for patient 37, distance 0
+0 # selected input tree index for patient 37
+9 # edges in selected input tree for patient 37
+dummy TP53
+dummy TERT
+dummy SOX2
+dummy PIK3CA
+dummy KEAP1
+dummy EGFR
+dummy CDKN2A
+GL dummy
+GL KRAS
+2 # cluster index for patient 38, distance 0
+0 # selected input tree index for patient 38
+9 # edges in selected input tree for patient 38
+dummy TP53
+dummy TERT
+dummy SOX2
+dummy PIK3CA
+dummy KEAP1
+dummy EGFR
+dummy CDKN2A
+GL dummy
+GL KRAS
+2 # cluster index for patient 39, distance 0
+0 # selected input tree index for patient 39
+9 # edges in selected input tree for patient 39
+dummy TP53
+dummy TERT
+dummy SOX2
+dummy PIK3CA
+dummy KEAP1
+dummy EGFR
+dummy CDKN2A
+GL dummy
+GL KRAS
+11 # cluster index for patient 40, distance 0
+0 # selected input tree index for patient 40
+9 # edges in selected input tree for patient 40
+dummy TP53
+dummy SOX2
+dummy PIK3CA
+dummy KRAS
+dummy KEAP1
+dummy CDKN2A
+EGFR TERT
+GL dummy
+GL EGFR
+2 # cluster index for patient 41, distance 0
+0 # selected input tree index for patient 41
+9 # edges in selected input tree for patient 41
+dummy TP53
+dummy TERT
+dummy SOX2
+dummy PIK3CA
+dummy KEAP1
+dummy EGFR
+dummy CDKN2A
+GL dummy
+GL KRAS
+12 # cluster index for patient 42, distance 0
+0 # selected input tree index for patient 42
+9 # edges in selected input tree for patient 42
+dummy TP53
+dummy TERT
+dummy SOX2
+dummy PIK3CA
+dummy KRAS
+dummy KEAP1
+dummy EGFR
+dummy CDKN2A
+GL dummy
+2 # cluster index for patient 43, distance 0
+0 # selected input tree index for patient 43
+9 # edges in selected input tree for patient 43
+dummy TP53
+dummy TERT
+dummy SOX2
+dummy PIK3CA
+dummy KEAP1
+dummy EGFR
+dummy CDKN2A
+GL dummy
+GL KRAS
+12 # cluster index for patient 44, distance 0
+0 # selected input tree index for patient 44
+9 # edges in selected input tree for patient 44
+dummy TP53
+dummy TERT
+dummy SOX2
+dummy PIK3CA
+dummy KRAS
+dummy KEAP1
+dummy EGFR
+dummy CDKN2A
+GL dummy
+12 # cluster index for patient 45, distance 0.111111
+0 # selected input tree index for patient 45
+9 # edges in selected input tree for patient 45
+dummy TP53
+dummy TERT
+dummy SOX2
+dummy PIK3CA
+dummy KRAS
+dummy EGFR
+dummy CDKN2A
+GL dummy
+GL KEAP1
+2 # cluster index for patient 46, distance 0
+0 # selected input tree index for patient 46
+9 # edges in selected input tree for patient 46
+dummy TP53
+dummy TERT
+dummy SOX2
+dummy PIK3CA
+dummy KEAP1
+dummy EGFR
+dummy CDKN2A
+GL dummy
+GL KRAS
+3 # cluster index for patient 47, distance 0
+0 # selected input tree index for patient 47
+9 # edges in selected input tree for patient 47
+dummy TERT
+dummy SOX2
+dummy PIK3CA
+dummy KRAS
+dummy KEAP1
+dummy CDKN2A
+EGFR TP53
+GL dummy
+GL EGFR
+3 # cluster index for patient 48, distance 0.111111
+0 # selected input tree index for patient 48
+9 # edges in selected input tree for patient 48
+dummy TERT
+dummy SOX2
+dummy PIK3CA
+dummy KEAP1
+dummy CDKN2A
+EGFR TP53
+TP53 KRAS
+GL dummy
+GL EGFR
+2 # cluster index for patient 49, distance 0
+0 # selected input tree index for patient 49
+9 # edges in selected input tree for patient 49
+dummy TP53
+dummy TERT
+dummy SOX2
+dummy PIK3CA
+dummy KEAP1
+dummy EGFR
+dummy CDKN2A
+GL dummy
+GL KRAS
+3 # cluster index for patient 50, distance 0.111111
+0 # selected input tree index for patient 50
+9 # edges in selected input tree for patient 50
+dummy TERT
+dummy SOX2
+dummy PIK3CA
+dummy KEAP1
+dummy CDKN2A
+EGFR TP53
+TP53 KRAS
+GL dummy
+GL EGFR
+1 # cluster index for patient 51, distance 0
+0 # selected input tree index for patient 51
+9 # edges in selected input tree for patient 51
+dummy TERT
+dummy SOX2
+dummy PIK3CA
+dummy EGFR
+dummy CDKN2A
+KRAS TP53
+TP53 KEAP1
+GL dummy
+GL KRAS
+9 # cluster index for patient 52, distance 0
+0 # selected input tree index for patient 52
+9 # edges in selected input tree for patient 52
+dummy TP53
+dummy TERT
+dummy SOX2
+dummy PIK3CA
+dummy KRAS
+dummy KEAP1
+dummy CDKN2A
+GL dummy
+GL EGFR
+12 # cluster index for patient 53, distance 0
+0 # selected input tree index for patient 53
+9 # edges in selected input tree for patient 53
+dummy TP53
+dummy TERT
+dummy SOX2
+dummy PIK3CA
+dummy KRAS
+dummy KEAP1
+dummy EGFR
+dummy CDKN2A
+GL dummy
+8 # cluster index for patient 54, distance 0
+0 # selected input tree index for patient 54
+9 # edges in selected input tree for patient 54
+dummy TERT
+dummy SOX2
+dummy PIK3CA
+dummy KRAS
+dummy KEAP1
+dummy EGFR
+dummy CDKN2A
+GL dummy
+GL TP53
+2 # cluster index for patient 55, distance 0.111111
+0 # selected input tree index for patient 55
+9 # edges in selected input tree for patient 55
+dummy TP53
+dummy SOX2
+dummy PIK3CA
+dummy KEAP1
+dummy EGFR
+dummy CDKN2A
+KRAS TERT
+GL dummy
+GL KRAS
+3 # cluster index for patient 56, distance 0
+0 # selected input tree index for patient 56
+9 # edges in selected input tree for patient 56
+dummy TERT
+dummy SOX2
+dummy PIK3CA
+dummy KRAS
+dummy KEAP1
+dummy CDKN2A
+GL dummy
+GL EGFR
+EGFR TP53
+2 # cluster index for patient 57, distance 0
+0 # selected input tree index for patient 57
+9 # edges in selected input tree for patient 57
+dummy TP53
+dummy TERT
+dummy SOX2
+dummy PIK3CA
+dummy KEAP1
+dummy EGFR
+dummy CDKN2A
+GL dummy
+GL KRAS
+12 # cluster index for patient 58, distance 0
+0 # selected input tree index for patient 58
+9 # edges in selected input tree for patient 58
+dummy TP53
+dummy TERT
+dummy SOX2
+dummy PIK3CA
+dummy KRAS
+dummy KEAP1
+dummy EGFR
+dummy CDKN2A
+GL dummy
+12 # cluster index for patient 59, distance 0
+0 # selected input tree index for patient 59
+9 # edges in selected input tree for patient 59
+dummy TP53
+dummy TERT
+dummy SOX2
+dummy PIK3CA
+dummy KRAS
+dummy KEAP1
+dummy EGFR
+dummy CDKN2A
+GL dummy
+0 # cluster index for patient 60, distance 0
+0 # selected input tree index for patient 60
+9 # edges in selected input tree for patient 60
+dummy TERT
+dummy KRAS
+dummy KEAP1
+dummy EGFR
+dummy CDKN2A
+PIK3CA SOX2
+SOX2 TP53
+GL dummy
+GL PIK3CA
+0 # cluster index for patient 61, distance 0.222222
+0 # selected input tree index for patient 61
+9 # edges in selected input tree for patient 61
+dummy KRAS
+dummy KEAP1
+dummy EGFR
+PIK3CA SOX2
+SOX2 TP53
+TP53 TERT
+TERT CDKN2A
+GL dummy
+GL PIK3CA
+8 # cluster index for patient 62, distance 0
+0 # selected input tree index for patient 62
+9 # edges in selected input tree for patient 62
+dummy TERT
+dummy SOX2
+dummy PIK3CA
+dummy KRAS
+dummy KEAP1
+dummy EGFR
+dummy CDKN2A
+GL dummy
+GL TP53
+0 # cluster index for patient 63, distance 0
+0 # selected input tree index for patient 63
+9 # edges in selected input tree for patient 63
+dummy TERT
+dummy KRAS
+dummy KEAP1
+dummy EGFR
+dummy CDKN2A
+PIK3CA SOX2
+SOX2 TP53
+GL dummy
+GL PIK3CA
+6 # cluster index for patient 64, distance 0.111111
+0 # selected input tree index for patient 64
+9 # edges in selected input tree for patient 64
+dummy SOX2
+dummy PIK3CA
+dummy KRAS
+dummy KEAP1
+dummy EGFR
+TP53 CDKN2A
+CDKN2A TERT
+GL dummy
+GL TP53
+0 # cluster index for patient 65, distance 0.111111
+0 # selected input tree index for patient 65
+9 # edges in selected input tree for patient 65
+dummy TERT
+dummy KRAS
+dummy KEAP1
+dummy EGFR
+PIK3CA SOX2
+SOX2 TP53
+TP53 CDKN2A
+GL dummy
+GL PIK3CA
+0 # cluster index for patient 66, distance 0.111111
+0 # selected input tree index for patient 66
+9 # edges in selected input tree for patient 66
+dummy KRAS
+dummy KEAP1
+dummy EGFR
+dummy CDKN2A
+PIK3CA SOX2
+SOX2 TP53
+TP53 TERT
+GL dummy
+GL PIK3CA
+8 # cluster index for patient 67, distance 0.111111
+0 # selected input tree index for patient 67
+9 # edges in selected input tree for patient 67
+dummy TERT
+dummy SOX2
+dummy PIK3CA
+dummy KEAP1
+dummy EGFR
+dummy CDKN2A
+TP53 KRAS
+GL dummy
+GL TP53
+8 # cluster index for patient 68, distance 0.111111
+0 # selected input tree index for patient 68
+9 # edges in selected input tree for patient 68
+dummy TERT
+dummy PIK3CA
+dummy KRAS
+dummy KEAP1
+dummy EGFR
+dummy CDKN2A
+TP53 SOX2
+GL dummy
+GL TP53
+0 # cluster index for patient 69, distance 0.111111
+0 # selected input tree index for patient 69
+9 # edges in selected input tree for patient 69
+dummy TP53
+dummy TERT
+dummy KRAS
+dummy KEAP1
+dummy EGFR
+dummy CDKN2A
+PIK3CA SOX2
+GL dummy
+GL PIK3CA
+0 # cluster index for patient 70, distance 0.111111
+0 # selected input tree index for patient 70
+9 # edges in selected input tree for patient 70
+dummy TERT
+dummy KRAS
+dummy KEAP1
+dummy CDKN2A
+PIK3CA SOX2
+SOX2 TP53
+TP53 EGFR
+GL dummy
+GL PIK3CA
+5 # cluster index for patient 71, distance 0
+0 # selected input tree index for patient 71
+9 # edges in selected input tree for patient 71
+dummy TP53
+dummy TERT
+dummy SOX2
+dummy PIK3CA
+dummy KRAS
+dummy KEAP1
+dummy EGFR
+GL dummy
+GL CDKN2A
+0 # cluster index for patient 72, distance 0
+0 # selected input tree index for patient 72
+9 # edges in selected input tree for patient 72
+dummy TERT
+dummy KRAS
+dummy KEAP1
+dummy EGFR
+dummy CDKN2A
+PIK3CA SOX2
+SOX2 TP53
+GL dummy
+GL PIK3CA
+8 # cluster index for patient 73, distance 0.111111
+0 # selected input tree index for patient 73
+9 # edges in selected input tree for patient 73
+dummy TERT
+dummy SOX2
+dummy KRAS
+dummy KEAP1
+dummy EGFR
+dummy CDKN2A
+TP53 PIK3CA
+GL dummy
+GL TP53
+0 # cluster index for patient 74, distance 0
+0 # selected input tree index for patient 74
+9 # edges in selected input tree for patient 74
+dummy TERT
+dummy KRAS
+dummy KEAP1
+dummy EGFR
+dummy CDKN2A
+PIK3CA SOX2
+SOX2 TP53
+GL dummy
+GL PIK3CA
+7 # cluster index for patient 75, distance 0
+0 # selected input tree index for patient 75
+9 # edges in selected input tree for patient 75
+dummy TERT
+dummy SOX2
+dummy PIK3CA
+dummy KRAS
+dummy EGFR
+dummy CDKN2A
+TP53 KEAP1
+GL dummy
+GL TP53
+0 # cluster index for patient 76, distance 0.111111
+0 # selected input tree index for patient 76
+9 # edges in selected input tree for patient 76
+dummy TP53
+dummy TERT
+dummy KRAS
+dummy KEAP1
+dummy EGFR
+dummy CDKN2A
+PIK3CA SOX2
+GL dummy
+GL PIK3CA
+0 # cluster index for patient 77, distance 0
+0 # selected input tree index for patient 77
+9 # edges in selected input tree for patient 77
+dummy TERT
+dummy KRAS
+dummy KEAP1
+dummy EGFR
+dummy CDKN2A
+PIK3CA SOX2
+SOX2 TP53
+GL dummy
+GL PIK3CA
+3 # cluster index for patient 78, distance 0
+0 # selected input tree index for patient 78
+9 # edges in selected input tree for patient 78
+dummy TERT
+dummy SOX2
+dummy PIK3CA
+dummy KRAS
+dummy KEAP1
+dummy CDKN2A
+EGFR TP53
+GL dummy
+GL EGFR
+6 # cluster index for patient 79, distance 0
+0 # selected input tree index for patient 79
+9 # edges in selected input tree for patient 79
+dummy TERT
+dummy SOX2
+dummy PIK3CA
+dummy KRAS
+dummy KEAP1
+dummy EGFR
+TP53 CDKN2A
+GL dummy
+GL TP53
+0 # cluster index for patient 80, distance 0
+0 # selected input tree index for patient 80
+9 # edges in selected input tree for patient 80
+dummy TERT
+dummy KRAS
+dummy KEAP1
+dummy EGFR
+dummy CDKN2A
+PIK3CA SOX2
+SOX2 TP53
+GL dummy
+GL PIK3CA
+0 # cluster index for patient 81, distance 0
+0 # selected input tree index for patient 81
+9 # edges in selected input tree for patient 81
+dummy TERT
+dummy KRAS
+dummy KEAP1
+dummy EGFR
+dummy CDKN2A
+PIK3CA SOX2
+SOX2 TP53
+GL dummy
+GL PIK3CA
+12 # cluster index for patient 82, distance 0
+0 # selected input tree index for patient 82
+9 # edges in selected input tree for patient 82
+dummy TP53
+dummy TERT
+dummy SOX2
+dummy PIK3CA
+dummy KRAS
+dummy KEAP1
+dummy EGFR
+dummy CDKN2A
+GL dummy
+12 # cluster index for patient 83, distance 0
+0 # selected input tree index for patient 83
+9 # edges in selected input tree for patient 83
+dummy TP53
+dummy TERT
+dummy SOX2
+dummy PIK3CA
+dummy KRAS
+dummy KEAP1
+dummy EGFR
+dummy CDKN2A
+GL dummy
+8 # cluster index for patient 84, distance 0
+0 # selected input tree index for patient 84
+9 # edges in selected input tree for patient 84
+dummy TERT
+dummy SOX2
+dummy PIK3CA
+dummy KRAS
+dummy KEAP1
+dummy EGFR
+dummy CDKN2A
+GL dummy
+GL TP53
+8 # cluster index for patient 85, distance 0.111111
+0 # selected input tree index for patient 85
+9 # edges in selected input tree for patient 85
+dummy TERT
+dummy SOX2
+dummy KRAS
+dummy KEAP1
+dummy EGFR
+dummy CDKN2A
+TP53 PIK3CA
+GL dummy
+GL TP53
+8 # cluster index for patient 86, distance 0
+0 # selected input tree index for patient 86
+9 # edges in selected input tree for patient 86
+dummy TERT
+dummy SOX2
+dummy PIK3CA
+dummy KRAS
+dummy KEAP1
+dummy EGFR
+dummy CDKN2A
+GL dummy
+GL TP53
+10 # cluster index for patient 87, distance 0
+0 # selected input tree index for patient 87
+9 # edges in selected input tree for patient 87
+dummy TP53
+dummy TERT
+dummy SOX2
+dummy KRAS
+dummy EGFR
+dummy CDKN2A
+PIK3CA KEAP1
+GL dummy
+GL PIK3CA
+5 # cluster index for patient 88, distance 0
+0 # selected input tree index for patient 88
+9 # edges in selected input tree for patient 88
+dummy TP53
+dummy TERT
+dummy SOX2
+dummy PIK3CA
+dummy KRAS
+dummy KEAP1
+dummy EGFR
+GL dummy
+GL CDKN2A
+6 # cluster index for patient 89, distance 0
+0 # selected input tree index for patient 89
+9 # edges in selected input tree for patient 89
+dummy TERT
+dummy SOX2
+dummy PIK3CA
+dummy KRAS
+dummy KEAP1
+dummy EGFR
+TP53 CDKN2A
+GL dummy
+GL TP53
+8 # cluster index for patient 90, distance 0.111111
+0 # selected input tree index for patient 90
+9 # edges in selected input tree for patient 90
+dummy TERT
+dummy SOX2
+dummy KRAS
+dummy KEAP1
+dummy EGFR
+dummy CDKN2A
+TP53 PIK3CA
+GL dummy
+GL TP53
+6 # cluster index for patient 91, distance 0
+0 # selected input tree index for patient 91
+9 # edges in selected input tree for patient 91
+dummy TERT
+dummy SOX2
+dummy PIK3CA
+dummy KRAS
+dummy KEAP1
+dummy EGFR
+TP53 CDKN2A
+GL dummy
+GL TP53
+4 # cluster index for patient 92, distance 0
+0 # selected input tree index for patient 92
+9 # edges in selected input tree for patient 92
+dummy TP53
+dummy SOX2
+dummy PIK3CA
+dummy KRAS
+dummy KEAP1
+dummy EGFR
+dummy CDKN2A
+GL dummy
+GL TERT
+8 # cluster index for patient 93, distance 0
+0 # selected input tree index for patient 93
+9 # edges in selected input tree for patient 93
+dummy TERT
+dummy SOX2
+dummy PIK3CA
+dummy KRAS
+dummy KEAP1
+dummy EGFR
+dummy CDKN2A
+GL dummy
+GL TP53
+2 # cluster index for patient 94, distance 0
+0 # selected input tree index for patient 94
+9 # edges in selected input tree for patient 94
+dummy TP53
+dummy TERT
+dummy SOX2
+dummy PIK3CA
+dummy KEAP1
+dummy EGFR
+dummy CDKN2A
+GL dummy
+GL KRAS
+8 # cluster index for patient 95, distance 0
+0 # selected input tree index for patient 95
+9 # edges in selected input tree for patient 95
+dummy TERT
+dummy SOX2
+dummy PIK3CA
+dummy KRAS
+dummy KEAP1
+dummy EGFR
+dummy CDKN2A
+GL dummy
+GL TP53
+8 # cluster index for patient 96, distance 0
+0 # selected input tree index for patient 96
+9 # edges in selected input tree for patient 96
+dummy TERT
+dummy SOX2
+dummy PIK3CA
+dummy KRAS
+dummy KEAP1
+dummy EGFR
+dummy CDKN2A
+GL dummy
+GL TP53
+7 # cluster index for patient 97, distance 0
+0 # selected input tree index for patient 97
+9 # edges in selected input tree for patient 97
+dummy TERT
+dummy SOX2
+dummy PIK3CA
+dummy KRAS
+dummy EGFR
+dummy CDKN2A
+TP53 KEAP1
+GL dummy
+GL TP53
+6 # cluster index for patient 98, distance 0
+0 # selected input tree index for patient 98
+9 # edges in selected input tree for patient 98
+dummy TERT
+dummy SOX2
+dummy PIK3CA
+dummy KRAS
+dummy KEAP1
+dummy EGFR
+TP53 CDKN2A
+GL dummy
+GL TP53

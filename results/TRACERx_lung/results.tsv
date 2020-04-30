@@ -1,0 +1,16 @@
+filename	min_trees	median_trees	max_trees	total_trees	PC_dist	patients	inferred_k
+./k1.solution.txt	1	1	14	137	20	99	1
+./k2.solution.txt	1	1	14	137	14	99	2
+./k3.solution.txt	1	1	14	137	12.8889	99	3
+./k4.solution.txt	1	1	14	137	10.4444	99	4
+./k5.solution.txt	1	1	14	137	9.22222	99	5
+./k6.solution.txt	1	1	14	137	8	99	6
+./k7.solution.txt	1	1	14	137	7.55556	99	7
+./k8.solution.txt	1	1	14	137	6.44444	99	8
+./k9.solution.txt	1	1	14	137	6	99	9
+./k10.solution.txt	1	1	14	137	5.33333	99	10
+./k11.solution.txt	1	1	14	137	5	99	11
+./k12.solution.txt	1	1	14	137	4.55556	99	12
+./k13.solution.txt	1	1	14	137	4.11111	99	13
+./k14.solution.txt	1	1	14	137	4	99	14
+./k15.solution.txt	1	1	14	137	3.55556	99	15

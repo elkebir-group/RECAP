@@ -1,0 +1,15 @@
+../../build/recap -c 10 -R GL -k 1 ../../data/TRACERx_lung/tracerx_lung.txt -p k1 -r 5000
+../../build/recap -c 10 -R GL -k 2 ../../data/TRACERx_lung/tracerx_lung.txt -p k2 -r 5000
+../../build/recap -c 10 -R GL -k 3 ../../data/TRACERx_lung/tracerx_lung.txt -p k3 -r 5000
+../../build/recap -c 10 -R GL -k 4 ../../data/TRACERx_lung/tracerx_lung.txt -p k4 -r 5000
+../../build/recap -c 10 -R GL -k 5 ../../data/TRACERx_lung/tracerx_lung.txt -p k5 -r 5000
+../../build/recap -c 10 -R GL -k 6 ../../data/TRACERx_lung/tracerx_lung.txt -p k6 -r 5000
+../../build/recap -c 10 -R GL -k 7 ../../data/TRACERx_lung/tracerx_lung.txt -p k7 -r 5000
+../../build/recap -c 10 -R GL -k 8 ../../data/TRACERx_lung/tracerx_lung.txt -p k8 -r 5000
+../../build/recap -c 10 -R GL -k 9 ../../data/TRACERx_lung/tracerx_lung.txt -p k9 -r 5000
+../../build/recap -c 10 -R GL -k 10 ../../data/TRACERx_lung/tracerx_lung.txt -p k10 -r 5000
+../../build/recap -c 10 -R GL -k 11 ../../data/TRACERx_lung/tracerx_lung.txt -p k11 -r 5000
+../../build/recap -c 10 -R GL -k 12 ../../data/TRACERx_lung/tracerx_lung.txt -p k12 -r 5000
+../../build/recap -c 10 -R GL -k 13 ../../data/TRACERx_lung/tracerx_lung.txt -p k13 -r 5000
+../../build/recap -c 10 -R GL -k 14 ../../data/TRACERx_lung/tracerx_lung.txt -p k14 -r 5000
+../../build/recap -c 10 -R GL -k 15 ../../data/TRACERx_lung/tracerx_lung.txt -p k15 -r 5000
