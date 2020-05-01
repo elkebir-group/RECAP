@@ -282,13 +282,13 @@ In practice, it is often helpful to loop over all k values run for the input ins
 first=true 
 for k in {1..15}
 do
-	f=./results/k${k}.solution.txt
-	if [ "$first" = true ]
-  	then
-    	first=false
-    	./build/analyze -H $f -i "./data/TRACERx_lung/tracerx_lung.txt"
+    f=./results/k${k}.solution.txt
+    if [ "$first" = true ]
+    then
+        first=false
+        ./build/analyze -H $f -i "./data/TRACERx_lung/tracerx_lung.txt"
     else
-    	./build/analyze $f -i "./data/TRACERx_lung/tracerx_lung.txt"
+        ./build/analyze $f -i "./data/TRACERx_lung/tracerx_lung.txt"
     fi
 done
 ```
