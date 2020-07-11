@@ -1,6 +1,6 @@
 # RECAP: Detecting Evolutionary Patterns of Cancers using Consensus Trees
 
-RECAP is an iterative, heuristic algorithm for solving the Mulitple Choice Consensus Tree (MCCT) problem. The input is a family of sets of patient tumor phylogenies and an integer k > 0. RECAP then returns (i) a single expanded tumor phylogeny for each patient, (ii) an assignment of patients into k clusters, and (iii) a consensus tree for each cluster summarizing its repeated evolutionary patterns.  
+RECAP is an iterative, heuristic algorithm for solving the Multiple Choice Consensus Tree (MCCT) problem. The input is a family of sets of patient tumor phylogenies and an integer k > 0. RECAP then returns (i) a single expanded tumor phylogeny for each patient, (ii) an assignment of patients into k clusters, and (iii) a consensus tree for each cluster summarizing its repeated evolutionary patterns.  
 
 <p align="center">
   <img width="400" height="400" src="./overview.png">
